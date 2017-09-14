@@ -1,0 +1,35 @@
+*** RATOS FRITOS ***
+Itaquaquecetuba - CNPJ: 001122/0001
+
+Valor do rodizio: R$ 39,90
+Pessoas: 4
+Sub-Total: R$ 159,60
+
+Suco: R$ 7,50
+Suco: R$ 7,50
+Suco: R$ 7,50
+Suco: R$ 7,50
+Cerveja: R$ 7,00
+Cerveja: R$ 7,00
+Cerveja: R$ 7,00
+Cerveja: R$ 7,00
+Caipirinha: R$ 15,00
+Refrigerante: R$ 5,00
+Refrigerante: R$ 5,00
+Gelatina: R$ 5,50
+Sorvete: R$ 9,00
+Petit Gateau: R$ 14,50
+Pudim: R$ 8,00
+Açaí: R$ 18,00
+Açaí: R$ 18,00
+Café: R$ 0,50
+Café: R$ 0,50
+Café: R$ 0,50
+Café: R$ 0,50
+
+Total de Adicionais: R$ 158,00
+Serviços: R$ 31,76
+Estacionamento: R$ 8,00
+Total a pagar: R$ 357,36
+
+CLIENTE: 12345678900
